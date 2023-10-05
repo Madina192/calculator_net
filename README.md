@@ -1,2 +1,2 @@
 # calculator_net
-![]calculator_sc.png
+![](calculator_sc.png)
